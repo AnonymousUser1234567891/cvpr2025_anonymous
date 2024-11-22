@@ -91,7 +91,7 @@ Check the data/MNIST/ .txt files should be changed.
     python finetune.py --dataset "Dataset" --foundation "foundation" --ckpt_path "ckpt_path" -- ft "ft"
 
 # Event Video Anomaly Detection
-    [Model Directory](./model/)
+    [Model Directory](https://github.com/AnonymousUser1234567891/cvpr2025_anonymous/tree/main/model)
     
 # Event
 
