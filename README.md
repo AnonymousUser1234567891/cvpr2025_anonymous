@@ -77,8 +77,6 @@ Check the data/MNIST/ .txt files should be changed.
 
 - Dataset in [N-imagenet, N-imagenet-1000]
 - foundation in [ViT-B/32, ViT-L/14]
-
-
     python main.py --dataset "Dataset" --foundation "foundation"
 
 
@@ -89,8 +87,6 @@ Check the data/MNIST/ .txt files should be changed.
 - ckpt_path "Pre-training .pt file"
 - test_mode : for evaluating only
 - ft in [1-shot, 2-shot, 5-shot, all]
-
-
     python finetune.py --dataset "Dataset" --foundation "foundation" --ckpt_path "ckpt_path" -- ft "ft"
 
 
