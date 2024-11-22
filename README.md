@@ -78,7 +78,9 @@ Check the data/MNIST/ .txt files should be changed.
 - Dataset in [N-imagenet, N-imagenet-1000]
 - foundation in [ViT-B/32, ViT-L/14]
 
+
     python main.py --dataset "Dataset" --foundation "foundation"
+
 
 # FineTuning
 
@@ -88,7 +90,9 @@ Check the data/MNIST/ .txt files should be changed.
 - test_mode : for evaluating only
 - ft in [1-shot, 2-shot, 5-shot, all]
 
+
     python finetune.py --dataset "Dataset" --foundation "foundation" --ckpt_path "ckpt_path" -- ft "ft"
+
 
 # Event Video Anomaly Detection
 [Check here ](./anomaly/)
