@@ -1,0 +1,10 @@
+/mnt/Data_3/mnist/N-MNIST/Train/0/51639.bin	/mnt/Data_3/mnist/MNIST/Train/0/mnist_train_51639.png
+/mnt/Data_3/mnist/N-MNIST/Train/1/09585.bin	/mnt/Data_3/mnist/MNIST/Train/1/mnist_train_9585.png
+/mnt/Data_3/mnist/N-MNIST/Train/2/07733.bin	/mnt/Data_3/mnist/MNIST/Train/2/mnist_train_7733.png
+/mnt/Data_3/mnist/N-MNIST/Train/3/56475.bin	/mnt/Data_3/mnist/MNIST/Train/3/mnist_train_56475.png
+/mnt/Data_3/mnist/N-MNIST/Train/4/13862.bin	/mnt/Data_3/mnist/MNIST/Train/4/mnist_train_13862.png
+/mnt/Data_3/mnist/N-MNIST/Train/5/46942.bin	/mnt/Data_3/mnist/MNIST/Train/5/mnist_train_46942.png
+/mnt/Data_3/mnist/N-MNIST/Train/6/33620.bin	/mnt/Data_3/mnist/MNIST/Train/6/mnist_train_33620.png
+/mnt/Data_3/mnist/N-MNIST/Train/7/24208.bin	/mnt/Data_3/mnist/MNIST/Train/7/mnist_train_24208.png
+/mnt/Data_3/mnist/N-MNIST/Train/8/58838.bin	/mnt/Data_3/mnist/MNIST/Train/8/mnist_train_58838.png
+/mnt/Data_3/mnist/N-MNIST/Train/9/27933.bin	/mnt/Data_3/mnist/MNIST/Train/9/mnist_train_27933.png
